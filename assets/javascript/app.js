@@ -1,3 +1,3 @@
-document.getElementById('demo').onclick = function changeContent() {
-    alert("Message Sent!");
-}
+//document.getElementById('demo').onclick = function changeContent() {
+//    alert("Message Sent!");
+//}
